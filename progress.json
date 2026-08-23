@@ -412,5 +412,14 @@
       "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1787501504.629569,
+    "completed_at": 1787501505.83993,
+    "comments": [
+      "Great job deleting the VWX branch!"
+    ],
+    "status": "Completed"
   }
 ]
